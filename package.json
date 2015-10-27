@@ -1,0 +1,23 @@
+{
+  "name": "mipaquetenpm",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "helloWorld.js",
+  "dependencies": {
+    "browserify": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertmayor/helloworldnodejs.git"
+  },
+  "author": "Albert Mayor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertmayor/helloworldnodejs/issues"
+  },
+  "homepage": "https://github.com/albertmayor/helloworldnodejs#readme"
+}
